@@ -1,0 +1,25 @@
+body {
+    background-color:antiquewhite;
+}
+.numbers {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: xx-large;
+    color: brown;
+    font-weight: bold;
+    margin: 22px;
+    border: 1px solid brown;
+}
+button {
+    padding: 10px;
+    background-color: chocolate;
+    font-size: 20px;
+    border: 1px solid maroon;
+    color: white;
+    border-radius: 5px;
+}
+h1 {
+    font-size: 30px;
+    color: brown;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 20px 0 0 0;
+}
